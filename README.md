@@ -50,6 +50,11 @@ docker build -t <your-dockerhub-repo>/projectname
 ## Step 5: Add Screenshot of your result
 
 
-## Important Notes
+## Sample Examples
+ 
+
+ - [Cryptotracker](https://github.com/Open-Source-Chandigarh/Cryptotracker)
+ - [The Pico Project](https://github.com/collabnix/pico)
+ - [How to Build the First containerized JAVA web application](https://github.com/dockersamples/genie-website-java)
 
 
