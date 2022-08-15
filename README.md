@@ -55,10 +55,14 @@ docker build -t <your-dockerhub-repo>/projectname
  docker run -p 3000:3000 <your-dockerhub-repo>/projectname
 ```
 
-## Step 5: Add Screenshot of your result
+## Step 5: Add Screenshot 
+
+- It's always good to showcase your overall project work in terms of screenshots
  
 
 ## Step 6. Add References
+
+- Did you refer to any blog or tutorial or repository, don't forget to capture it here.
 
 
 ## Sample Examples
