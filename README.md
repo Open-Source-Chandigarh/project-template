@@ -62,7 +62,7 @@ docker build -t <your-dockerhub-repo>/projectname
 
 ## Step 6. Add References
 
-- Did you refer to any blog or tutorial or repository, don't forget to capture it here.
+- Did you refer to any blog or tutorial or repository? If yes, then it's not a bad idea to capture it here.
 
 
 ## Sample Examples
