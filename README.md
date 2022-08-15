@@ -1,3 +1,11 @@
+![stars](https://img.shields.io/github/stars/Open-Source-Chandigarh/project-template)
+![forks](https://img.shields.io/github/forks/Open-Source-Chandigarh/project-template)
+![issues](https://img.shields.io/github/issues/Open-Source-Chandigarh/project-template)
+![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=Open-Source-Chandigarh.project-template)
+![GitHub contributors](https://img.shields.io/github/contributors/Open-Source-Chandigarh/project-template)
+
+
+
 # Add Title(How to Build XYZ using <Language1> and Docker)
 
 - Add 4-5 lines introduction to your project
