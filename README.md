@@ -1,7 +1,8 @@
 # Add Title(How to Build XYZ using <Language1> and Docker)
 
 - Add 4-5 lines introduction to your project
-- [Optional] - Adding video would be super awesome. Just create 4-5 min videos on how to bring up this app.
+- Try to elaborate on the overall project work.
+- [Optional] - Add video, if possible. This video covers on how to install this app and brief explanation of the project work.
 
 
 
